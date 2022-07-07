@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  MyMusic
-//
-//  Created by Дмитрий Писляков on 29.06.2022.
-//
-
 import UIKit
 
 @main
